@@ -166,8 +166,8 @@ Structured project documentation and technical workflows to improve development 
 
 # 🏆 Achievements
 
-🥇 IITM I-Summit Finalist — 2026
-🌍 Global Semi-Finalist — Strategy Storm International 2026
+🥇 IITM I-Summit Finalist — 2026 <br>
+🌍 Global Semi-Finalist — Strategy Storm International 2026<br>
 🏆 **3× National Hackathon Winner**
 
 ---
