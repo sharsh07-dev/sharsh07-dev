@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineer;Startup+Founder;Building+Real+World+Systems;Open+Source+Contributor&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7FF"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Learning AI;Startup Experience;Building+Real+World+Systems;Open+Source+Contributor&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7FF"/>
 </p>
 
 ---
