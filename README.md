@@ -62,7 +62,6 @@ I'm **Harsh Shinde**, a passionate **Full Stack Developer and AI Engineer** from
 
 * Full Stack Development
 * AI / Machine Learning
-* System Design
 * Startup Development
 
 ⚡ Fun fact: I build **real-world AI systems and startup products**
