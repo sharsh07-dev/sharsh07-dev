@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Software+Testing+%26+Automation;Python+%26+MATLAB;Building+Real+World+Systems;Open+Source+Contributor&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7FF"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Building+Real+World+AI+Systems;Python+%26+Machine+Learning;Open+Source+Contributor&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7FF"/>
 </p>
 
 ---
@@ -46,23 +46,23 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
 
-I'm **Harsh Shinde**, a 3rd-year Information Technology engineering student from **Pune, Maharashtra 🇮🇳** specializing in robust backend development, software testing methodologies, and automation pipelines.
+I'm **Harsh Shinde**, a 3rd-year Information Technology engineering student from **Pune, Maharashtra 🇮🇳** specializing in **AI Engineering and machine learning model integration**.
 
 🎓 **B.E. Information Technology** — JSPM's JSCOE (CGPA: 8.5 / Expected 2028)  
 🎖 **Diploma in Computer Science & Engineering:** 90.11%  
 
 💡 Creator of **Shloki — Digital Knowledge Platform (shloki.in)**  
 
-🔭 Currently building **scalable full-stack applications and automated testing pipelines**  
+🔭 Currently building **AI-driven architectures, predictive modeling systems, and intelligent pipelines**  
 
-🌱 Learning **CI/CD workflows, software tool validation, and advanced algorithms**  
+🌱 Learning **Advanced Deep Learning, Neural Networks, and Scalable AI Deployments**  
 
 💬 Ask me about:
 * Python & MATLAB development
-* Software testing & CI/CD (PyTest, Jest, GitLab CI)
-* Full-stack web development
+* Machine Learning & Scikit-learn
+* AI Anomaly Detection & Predictive Modeling
 
-⚡ Fun fact: I enjoy solving complex algorithmic challenges and optimizing application performance.
+⚡ Fun fact: I enjoy solving complex algorithmic challenges and optimizing artificial intelligence models.
 
 ---
 
@@ -99,7 +99,7 @@ Directed a team to organize 15+ technical events for 800+ attendees, driving cro
 <sub>Jun 2024 – Jul 2024</sub>
 </td>
 <td>
-Engineered responsive visualization dashboards, configured GitLab CI/CD pipelines, and drafted technical documentation.
+Engineered responsive visualization dashboards, configured deployment workflows, and drafted technical documentation.
 </td>
 </tr>
 
@@ -113,7 +113,6 @@ Engineered responsive visualization dashboards, configured GitLab CI/CD pipeline
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -122,26 +121,13 @@ Engineered responsive visualization dashboards, configured GitLab CI/CD pipeline
 
 ---
 
-### Testing & DevOps
+### AI, ML & Libraries
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-### Backend & Frontend
-<p>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -161,23 +147,13 @@ Engineered responsive visualization dashboards, configured GitLab CI/CD pipeline
 
 <tr>
 
-<td width="50%">
+<td width="100%">
 <h3 align="center">🔊 SurakshaVaani</h3>
 <p align="center">AI Audio Anomaly Detection Platform</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest"/>
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center">📦 ArogyaSparsh</h3>
-<p align="center">Predictive Logistics & Demand Forecasting Platform</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
 </p>
 </td>
 
@@ -187,11 +163,17 @@ Engineered responsive visualization dashboards, configured GitLab CI/CD pipeline
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Contribution Map
 
+<!-- GitHub Stats Cards -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sharsh07-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharsh07-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<!-- GitHub Green Contribution Map (Streak / Activity Graph) -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharsh07-dev&theme=radical&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF"/>
 </p>
 
 ---
@@ -199,7 +181,7 @@ Engineered responsive visualization dashboards, configured GitLab CI/CD pipeline
 # 🤝 Let's Connect
 
 <p align="center">
-I'm open to **internships, technical collaborations, and software engineering projects**.
+I'm open to **AI engineering internships, technical collaborations, and machine learning projects**.
 </p>
 
 <p align="center">
