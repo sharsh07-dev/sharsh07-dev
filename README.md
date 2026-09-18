@@ -165,15 +165,19 @@ Engineered responsive visualization dashboards, configured deployment workflows,
 
 # 📊 GitHub Stats & Contribution Map
 
-<!-- GitHub Stats Cards -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharsh07-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharsh07-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <a href="https://github.com/sharsh07-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=sharsh07-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" />
+  </a>
+  <a href="https://github.com/sharsh07-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharsh07-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </p>
 
-<!-- GitHub Green Contribution Map (Streak / Activity Graph) -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharsh07-dev&theme=radical&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF"/>
+  <a href="https://github.com/sharsh07-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharsh07-dev&theme=radical&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" alt="Contribution Graph" />
+  </a>
 </p>
 
 ---
