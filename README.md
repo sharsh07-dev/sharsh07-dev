@@ -259,7 +259,30 @@ Additional highlights:
 🚀 Featured Projects
 <table> <tr> <td width="100%"> <h3 align="center">📚 Shloki.in</h3> <p align="center">Digital Knowledge & Scripture Learning Platform</p> <p align="center"> <a href="https://shloki.in"> <img src="https://img.shields.io/badge/Visit-Website-36BCF7?style=flat-square" /> </a> </p> Building an interactive learning experience with scripture-based flashcards and digital knowledge resources, serving 400+ active users. </td> </tr> <tr> <td width="100%"> <h3 align="center">🔊 SurakshaVaani</h3> <p align="center">AI-Powered Audio Classification & Emergency Support</p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn" /> <img src="https://img.shields.io/badge/Machine_Learning-412991?style=flat-square" /> </p> Exploring speech emotion recognition and audio classification for potential emergency-support applications. </td> </tr> </table>
 📊 GitHub Stats & Contributions
-<p align="center"> <a href="https://github.com/sharsh07-dev"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=sharsh07-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" /> </a> <a href="https://github.com/sharsh07-dev"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharsh07-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" /> </a> </p> <p align="center"> <a href="https://github.com/sharsh07-dev"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharsh07-dev&theme=radical&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" alt="GitHub Contribution Graph" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/sharsh07-dev">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=sharsh07-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"
+      alt="Harsh's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/sharsh07-dev">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharsh07-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sharsh07-dev/sharsh07-dev/output/github-contribution-grid-snake.svg"
+    alt="Harsh's GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 🤝 Let's Connect
 <p align="center"> I'm open to <b>full-stack development opportunities, software engineering internships, hackathons, open-source collaborations, and AI/ML projects.</b> </p> <p align="center"> <a href="mailto:shindeharsh.dev@gmail.com"> <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/harsh-shindedev07/"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://harshshinde.in/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </p>
 
