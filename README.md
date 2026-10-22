@@ -58,7 +58,6 @@ I'm **Harsh Shinde**, a 3rd-year Information Technology engineering student from
 🌱 Learning **Advanced Deep Learning, Neural Networks, and Scalable AI Deployments**  
 
 💬 Ask me about:
-* Python & MATLAB development
 * Machine Learning & Scikit-learn
 * AI Anomaly Detection & Predictive Modeling
 
@@ -134,7 +133,7 @@ Engineered responsive visualization dashboards, configured deployment workflows,
 
 # 🏆 Achievements & Certifications
 
-🏆 **6× National Hackathon Champion**  
+🏆 **9× National Hackathon Champion**  
 🥇 **Smart India Hackathon (SIH) 2025 Finalist** — Architected a scalable logistical platform focusing on backend validation.  
 🎯 **LeetCode Problem Solver** — Completed 150+ algorithmic challenges demonstrating advanced data structure implementation.  
 🌍 **Google Student Ambassador** — Promoted engineering workflows and best practices for 100+ peers.  
