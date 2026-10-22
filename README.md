@@ -205,8 +205,7 @@
 
 
 
-👋 Hi, I'm Harsh Shinde
-Built Shloki.in | Java (DSA) | Full Stack Developer | 10× Hackathon Winner | SIH '25 Finalist
+
 
 <!-- Profile Header --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Harsh%20Shinde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" /> </p> <!-- Typing Animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;10x+Hackathon+Winner;Java+%26+Data+Structures+and+Algorithms;Building+Shloki.in;AI+%26+Machine+Learning&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000&color=36BCF7FF" /> </p>
 <!-- Profile Badges --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharsh07-dev&color=36BCF7&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/sharsh07-dev?label=Followers&style=for-the-badge&color=36BCF7" /> <img src="https://img.shields.io/github/stars/sharsh07-dev?label=Stars&style=for-the-badge&color=36BCF7" /> </p>
